@@ -7,10 +7,9 @@ title: Hobbies
 ### Debate competition
 
 <div class="two">
-<img src="hobby/competition3.png">
-<img src="https://github.com/yuluan08/yuluan08.github.io/blob/main/images/hobby/debate%20competition3.png?raw=true">
+<img src="hobby/competition.jpg">
+<img src="hobby/competition3.jpg">
 </div>
-
 
 <html>
 
@@ -35,9 +34,10 @@ p {
 ### Host
 
 <div class="two">
-<img src="https://github.com/yuluan08/yuluan08.github.io/blob/main/images/hobby/host1.jpg?raw=true">
-<img src="https://github.com/yuluan08/yuluan08.github.io/blob/main/images/hobby/host2.jpg?raw=true">
+<img src="hobby/host1.jpg">
+<img src="hobby/host2.jpg">
 </div>
+
 
 <html>
 
@@ -63,13 +63,14 @@ p {
 ### Photography
 
 <div class="four">
-<img src="https://github.com/yuluan08/yuluan08.github.io/blob/main/images/hobby/photography1.jpg?raw=true">
-<img src="https://github.com/yuluan08/yuluan08.github.io/blob/main/images/hobby/photography2.jpg?raw=true">
-<img src="https://github.com/yuluan08/yuluan08.github.io/blob/main/images/hobby/photography3.jpg?raw=true">
-<img src="https://github.com/yuluan08/yuluan08.github.io/blob/main/images/hobby/photography4.jpg?raw=true">
+<img src="hobby/photography1.jpg">
+<img src="hobby/photography2.jpg">
+<img src="hobby/photography3.jpg">
+<img src="hobby/photography4.jpg">
 </div>
 
 <html>
+
 <head>
 <style>
 p {
