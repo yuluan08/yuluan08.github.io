@@ -7,9 +7,10 @@ title: Hobbies
 ### Debate competition
 
 <div class="two">
-<img src="hobby/competition.jpg">
-<img src="hobby/competition3.jpg">
+<img src="hobby/debate competition.jpg">
+<img src="hobby/debate competition3.jpg">
 </div>
+
 
 <html>
 
