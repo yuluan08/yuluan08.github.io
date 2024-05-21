@@ -7,9 +7,10 @@ title: Hobbies
 ### Debate competition
 
 <div class="two">
-<img src="https://github.com/yuluan08/yuluan08.github.io/blob/main/images/hobby/debate%20competition.jpg?raw=true">
+<img src="images/luanyu.jpg">
 <img src="https://github.com/yuluan08/yuluan08.github.io/blob/main/images/hobby/debate%20competition3.jpg?raw=true">
 </div>
+
 
 <html>
 
