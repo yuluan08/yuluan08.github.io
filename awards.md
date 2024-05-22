@@ -109,8 +109,11 @@ ul {
   <li><div>
   <p class="margin">05/2022<h style="letter-spacing:10px">:</h>Outstanding Communist Youth League Cadres of China University of Mining and Technology</p></div></li>
   <li><div>
+  <p class="margin">12/2021<h style="letter-spacing:10px">:</h>Outstanding student cadres of School of Information and Control Engineering, China University of Mining and Technology </p></div></li>
+  <li><div>
   <p class="margin">05/2021<h style="letter-spacing:10px">:</h>Outstanding Communist Youth League Cadres of China University of Mining and Technology </p></div></li>
 </ul>
+
 </body>
 
 ------
