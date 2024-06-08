@@ -54,9 +54,8 @@ ul {
 </style>
 
 <ul>
-  <li><div><p class="margin">05/2023<h style="letter-spacing:10px">:</h>A coal caving device based on fully mechanized caving mining (Fourth author)</p></div></li>
+  <li><div><p class="margin">05/2023<h style="letter-spacing:10px">:</h>A Top Coal Caving Device Based on Fully Mechanized Caving Mining (Fourth author)</p></div></li>
 </ul>
-
 
 
 
