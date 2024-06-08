@@ -99,21 +99,22 @@ ul {
 
 <ul>
 <li><div><p class="margin">06/2024<h style="letter-spacing:10px">:</h>Outstanding Graduates of China University of Mining and Technology </p></div></li>
-<li><div><p class="margin">12/2023<h style="letter-spacing:10px">:</h>Outstanding student cadres of China University of Mining and Technology </p></div></li>
+<li><div><p class="margin">12/2023<h style="letter-spacing:10px">:</h>Outstanding Student Cadres of China University of Mining and Technology </p></div></li>
 <li><div><p class="margin">06/2023<h style="letter-spacing:10px">:</h><span class="thick">Outstanding Student Cadres of Jiangsu Province </span></p></div></li>
   <li><div>
   <p class="margin">05/2023<h style="letter-spacing:10px">:</h>Outstanding Communist Youth League Member of China University of Mining and Technology</p></div></li>
   <li><div>
-  <p class="margin">03/2023<h style="letter-spacing:10px">:</h>Outstanding female student cadres of China University of Mining and Technology</p></div></li>
+  <p class="margin">03/2023<h style="letter-spacing:10px">:</h>Outstanding Female Student Cadres of China University of Mining and Technology</p></div></li>
   <li><div>
-  <p class="margin">12/2022<h style="letter-spacing:10px">:</h>Outstanding student cadres of China University of Mining and Technology</p></div></li>
+  <p class="margin">12/2022<h style="letter-spacing:10px">:</h>Outstanding Student Cadres of China University of Mining and Technology</p></div></li>
   <li><div>
   <p class="margin">05/2022<h style="letter-spacing:10px">:</h>Outstanding Communist Youth League Cadres of China University of Mining and Technology</p></div></li>
   <li><div>
-  <p class="margin">12/2021<h style="letter-spacing:10px">:</h>Outstanding student cadres of School of Information and Control Engineering, China University of Mining and Technology </p></div></li>
+  <p class="margin">12/2021<h style="letter-spacing:10px">:</h>Outstanding Student Cadres of School of Information and Control Engineering, China University of Mining and Technology </p></div></li>
   <li><div>
   <p class="margin">05/2021<h style="letter-spacing:10px">:</h>Outstanding Communist Youth League Cadres of China University of Mining and Technology </p></div></li>
 </ul>
+
 
 
 </body>
