@@ -54,7 +54,7 @@ ul {
 
 <ul>
   <li><div>
-  <p class="margin">07/2023<h style="letter-spacing:10px">:</h>"Siemens Cup" China Intelligent Manufacturing Challenge East China Division 2 Second Prize </p></div></li>
+  <p class="margin">07/2023<h style="letter-spacing:10px">:</h>Second Prize in the Second Division of the East China Region of the "Siemens Cup" China Intelligent Manufacturing Challenge </p></div></li>
   <li><div>
   <p class="margin">04/2023<h style="letter-spacing:10px">:</h>Third Prize in the 14th Blue Bridge Cup EDA Design and Development Jiangsu Competition</p></div></li>
   <li><div>
