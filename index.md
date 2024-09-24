@@ -20,8 +20,9 @@ span.thick {
 <body>
 
 <div>
-  <p>Here is  <span class="thick">Yu Luan (Raina, 栾雨)</span>. PhD candidate in the Department of Control Science and Engineering, Nankai University, my supervisor is Professor Qinglin Sun.</p>
+  <p>Here is  <span class="thick">Yu Luan (Raina, 栾雨)</span>. PhD candidate in the Department of Control Science and Engineering, Nankai University.</p>
 </div>
+
 </body>
 </html>
 
@@ -75,12 +76,10 @@ ul {
 <body>
 
 <ul>
-<li><div><p class="margin"> Parafoil trajectory planning based on deep reinforcement learning</p></div></li>
-<li><div><p class="margin"> Deep reinforcement learning algorithm optimization</p></div></li>
-<li><div><p class="margin"> Collaborative control</p></div></li>
+<li><div><p class="margin"> Deep reinforcement learning algorithm</p></div></li>
+<li><div><p class="margin"> Trajectory Planning</p></div></li>
 <li><div><p class="margin"> Nonlinear control</p></div></li>
 </ul></body>
-
 
 ---
 
