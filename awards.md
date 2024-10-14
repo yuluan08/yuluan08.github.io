@@ -142,5 +142,5 @@ ul {
 </style>
 
 <ul>
-  <li><div><p class="margin">12/2021<h style="letter-spacing:10px">:</h>CCF Student Member</p></div></li>
+  <li><div><p class="margin">10/2024<h style="letter-spacing:10px">:</h>CCF Student Member</p></div></li>
 </ul>
