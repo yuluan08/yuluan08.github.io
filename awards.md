@@ -24,6 +24,7 @@ ul {
 </style>
 
 <ul>
+  <li><div><p class="margin">12/2021<h style="letter-spacing:10px">:</h>Nankai University Recommended Second Class Scholarship for Students</p></div></li>
 <li><div><p class="margin">12/2023<h style="letter-spacing:10px">:</h><span class="thick">National Scholarships</span></p></div></li>
 <li><div><p class="margin">12/2022<h style="letter-spacing:10px">:</h><span class="thick">National Scholarships</span></p></div></li>
   <li><div><p class="margin">12/2021<h style="letter-spacing:10px">:</h>China University of Mining and Technology Second Class Scholarship</p></div></li>
