@@ -124,4 +124,23 @@ ul {
 
 ### Services
 
-- 
+<style>
+p {
+  text-align: justify;
+}
+p.margin{
+
+    margin-bottom: 3px;
+}
+
+span.thick {
+  font-weight: bold;
+}
+ul {
+  padding: 20px;
+}
+</style>
+
+<ul>
+  <li><div><p class="margin">12/2021<h style="letter-spacing:10px">:</h>CCF Student Member</p></div></li>
+</ul>
