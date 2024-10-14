@@ -102,8 +102,8 @@ ul {
 <body>
 
 <ul>
+    <li><div><p class="margin">09/2024<h style="letter-spacing:10px">:</h>I received the <span class="thick">Second-class Scholarship</span>for recommended students of Nankai University. </p></div></li>
     <li><div><p class="margin">06/2024<h style="letter-spacing:10px">:</h>I am honored to be named an <span class="thick">Outstanding Graduate</span> at the school level. </p></div></li>
-    <li><div><p class="margin">09/2024<h style="letter-spacing:10px">:</h>I received the <span class="thick">Second-class Scholarship for recommended students</span> of Nankai University. </p></div></li>
 </ul>
 
 </body>
