@@ -78,7 +78,7 @@ ul {
 <ul>
 <li><div><p class="margin"> Trajectory Planning</p></div></li>
 <li><div><p class="margin"> Cooperative control</p></div></li>
-<li><div><p class="margin"> Reachable set</p></div></li>
+<li><div><p class="margin"> Reachability analysis</p></div></li>
 <li><div><p class="margin"> Nonlinear control</p></div></li>
 </ul></body>
 
