@@ -103,7 +103,8 @@ ul {
 <body>
 
 <ul>
-    <li><div><p class="margin">09/2025<h style="letter-spacing:10px">:</h>I receive the Gongneng Third Class Scholarship of Nankai University. </p></div></li>
+   <li><div><p class="margin">04/2026<h style="letter-spacing:10px">:</h>My paper was accepted by Aerospace Science and Technology.   </p></div></li>
+   <li><div><p class="margin">09/2025<h style="letter-spacing:10px">:</h>I receive the Gongneng Third Class Scholarship of Nankai University. </p></div></li>
     <li><div><p class="margin">09/2024<h style="letter-spacing:10px">:</h>I receive the <span class="thick">Second Class Scholarship</span> for recommended students of Nankai University. </p></div></li>
     <li><div><p class="margin">06/2024<h style="letter-spacing:10px">:</h>I am honored to be named an <span class="thick">Outstanding Graduate</span> at the school level. </p></div></li>
 </ul>
