@@ -26,7 +26,7 @@ ul {
 </style>
 
 <ul>
-  <li><div><p class="margin">Hold on...</p></div></li>
+  <li><div><p class="margin"> <span class="thick">Luan Y</span>, Sun H, Sun Q, et al. Reachable set-based dynamic trajectory planning for parafoil system in complex environments[J]. Aerospace Science and Technology, 2026. DOI: https://doi.org/10.1016/j.ast.2026.112482</p></div></li>
 </ul>
 
 
