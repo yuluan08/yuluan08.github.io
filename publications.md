@@ -28,7 +28,12 @@ ul {
 </style>
 
 <ul>
-  <li><div><p class="margin"> <span class="thick">Y. Luan</span>, H. Sun, Q. Sun, et al. Reachable set-based dynamic trajectory planning for parafoil system in complex environments[J]. Aerospace Science and Technology, 2026. DOI: https://doi.org/10.1016/j.ast.2026.112482</p></div></li>
+  <li><div><p class="margin"> <span class="thick">Y. Luan</span>, H. Sun, Q. Sun, et al. Reachable set-based dynamic trajectory planning for parafoil system in complex environments[J]. Aerospace Science and Technology, 2026. DOI:
+<a href="https://doi.org/10.1016/j.ast.2026.112482"
+   target="_blank"
+   rel="noopener noreferrer">
+10.1016/j.ast.2026.112482
+</a></p></div></li>
   <li><div><p class="margin"> <span class="thick">Y. Luan</span>, H. Sun, Q. Sun, et al. Receding-Horizon Trajectory Planning for
 Unmanned Surface Vessel Based on Reachable Set. The 17th FLINS Conference & the 21st ISKE Conference: Machine Learning and Knowledge Engineering for Decision Making, 2026.</p></div></li>
 </ul>
